@@ -1,9 +1,9 @@
-##About
+About
 
 
 royalty free image search implementation in react
 
-##technologies: 
+technologies: 
 
 React
 axios
@@ -11,7 +11,7 @@ html
 css
 
 
-##APIs 
+APIs 
 
 unsplash - done
 pixabay - pending
